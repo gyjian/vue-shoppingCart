@@ -3,7 +3,7 @@
 
 由于axios没有jsonp,所以数据要放在模拟服务器（这里用的是json-server）上
 
-#demo运行时请先确保安装了npm#
+#请先确保安装了npm#
 
 # 安装 json-server
 

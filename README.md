@@ -1,3 +1,5 @@
+demo截图
+![image](https://github.com/gyjian/vue-shoppingCart/blob/master/static/img/cart.html%20-%20Google%20Chrome%202018_2_25%2016_18_08.gif)
 # vue-shoppingCart
 技术栈： vue2.0+axios+json-server
 
